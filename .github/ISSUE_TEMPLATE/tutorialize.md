@@ -6,6 +6,9 @@ labels: 'tutorial, hard, new-topic'
 assignees: ''
 
 ---
+- Code
+- Demo
+- YouTube
 
 **Describe the item (article, code, video)**
 A clear and concise description. 
